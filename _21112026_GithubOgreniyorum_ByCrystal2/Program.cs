@@ -10,6 +10,7 @@ namespace _21112026_GithubOgreniyorum_ByCrystal2
     {
         static void Main(string[] args)
         {
+            // This is a sample program to demonstrate basic C# syntax and structure.
         }
     }
 }
